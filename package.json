@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/YuliaHappy/LESS.git"
+    "url": "git+https://github.com/"
   },
-  "author": "Iuliia Tr",
+  "author": "Kirill Rakhmangulov",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/YuliaHappy/LESS/issues"
+    "url": "https://github.com/"
   },
-  "homepage": "https://github.com/YuliaHappy/LESS#readme",
+  "homepage": "https://github.com/",
   "devDependencies": {
     "autoprefixer": "10.3.1",
     "css-loader": "6.2.0",
